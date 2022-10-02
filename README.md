@@ -1,1 +1,1 @@
-Refocus Poke-dex app
+React Poke-dex app with ANT-Design
